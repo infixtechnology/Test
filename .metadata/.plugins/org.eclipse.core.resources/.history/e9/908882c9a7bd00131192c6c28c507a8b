@@ -1,0 +1,15 @@
+package com.tesrt;
+
+public class ArrayPrac {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		int [] ferozKhan;
+		ferozKhan = new int [5];
+
+	}
+
+}

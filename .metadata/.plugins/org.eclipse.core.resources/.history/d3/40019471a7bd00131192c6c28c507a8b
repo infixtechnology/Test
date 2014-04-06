@@ -1,0 +1,14 @@
+package com.tesrt;
+
+public class ArrayPrac {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.test;
+
+import java.util.Scanner;
+
+public class Grading {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+
+	}
+
+}

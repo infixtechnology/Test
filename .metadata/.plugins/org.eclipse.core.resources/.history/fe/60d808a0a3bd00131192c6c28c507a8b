@@ -1,0 +1,21 @@
+package com.test;
+
+import java.util.Scanner;
+
+public class WhileLoop {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		System.out.println("enter number");
+		int a = scan.nextInt();
+		while(a>20){
+			a++;
+			System.out.println("Omera talks Sylhtie");
+		}
+
+	}
+
+}
